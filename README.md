@@ -74,8 +74,8 @@ Por cada algoritmo se muestra una tabla así:
 
 ```
      n      tiempo(s)    razon   esperada (Tabla 16)
-  1000     0.01297805        -
-  2000     0.05109907     3.94   ~ 4
+  1000     0.03123150        -
+  2000     0.13176060     4.22   ~ 4
 ```
 
 La última columna es lo que dice la Tabla 16 de la Clase 12 para esa
